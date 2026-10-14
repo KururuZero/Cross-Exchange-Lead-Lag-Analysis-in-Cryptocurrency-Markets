@@ -1,9 +1,10 @@
-# Trader Entrance Assessment
+# Cross Exchange Lead-Lag Analysis in Cryptocurrency Markets
 
 Cross-exchange lead-lag analysis using centred VWAP windows, VWAP-to-VWAP returns, and non-overlapping regression subsamples.
 
-Repository: https://github.com/KururuZero/Trader_Entrance_Assessment/
+Repository: https://github.com/KururuZero/Cross-Exchange-Lead-Lag-Analysis-in-Cryptocurrency-Markets
 
+This project was done for the Traders@ust Quant Track entrance assessment.
 ---
 
 ## Overview
