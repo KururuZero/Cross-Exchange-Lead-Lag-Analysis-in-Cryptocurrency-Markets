@@ -4,7 +4,8 @@ Cross-exchange lead-lag analysis using centred VWAP windows, VWAP-to-VWAP return
 
 Repository: https://github.com/KururuZero/Cross-Exchange-Lead-Lag-Analysis-in-Cryptocurrency-Markets
 
-This project was done for the Traders@ust Quant Track entrance assessment.
+This Project was done for the Traders@ust quant track assessment.
+
 ---
 
 ## Overview
