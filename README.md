@@ -554,34 +554,5 @@ Cache versions are deliberately bumped when the return definition, statistics or
 
 ## Repository
 
-https://github.com/KururuZero/Trader_Entrance_Assessment/
+https://github.com/KururuZero/Cross-Exchange-Lead-Lag-Analysis-in-Cryptocurrency-Markets
 
-## Assistance and source disclosure
-
-### Academic papers consulted
-- None
-  
-### External datasets used
-- **Binance public bulk trade data** (`data.binance.vision`) – daily aggTrades files for Binance spot symbols.
-
-### Existing repositories or code consulted
-- None
-
-### Tutorials or articles used
-- None
-
-### AI tools used
-- **ChatGPT (GPT-5.6) and Claude Sonnet** were used extensively for:
-  - Refinement of the hypothesis proposed by me and the methodology used to prove or disprove the hypothesis.
-  - Follow my instructions to generate the python code that implement methodology.
-  - Consulting about setup of AWS EC2 instance.
-  - Refactoring and modularising the pipeline (P06–P11), including shared IO/config layers and cache metadata.
-  - Writing and improving docstrings, comments, and the README.
-  - Designing memory-efficient chunked processing to avoid OOM kills on large tick files.
-  - Implementing statistical routines: closed-form OLS, Benjamini–Hochberg q-values, one-sample t-tests, date-block bootstrap confidence intervals, and signed-log transforms.
-  - Designing the P11 falsification battery (free-`b` sweep, negative-`b` / shuffled-day / shuffled-coin placebos, lag-side staleness diagnostics, continuation-vs-reversal horizon test, threshold × cost surface, first-half / second-half OOS).
-  - Debugging and correcting return calculations, window validity gates, and non-overlapping subsample logic.
-  - Generating the assistance and source disclosure section you are reading now.
-
-### Assistance received from another person
-- None.
